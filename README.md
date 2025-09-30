@@ -23,7 +23,7 @@ This program generates an HTML link for Zotero libraries and collections selecte
 3. Paste these line of code which downloads the repository onto your device and enters the main folder
 
 
-        git clone https://github.com/acl13820-cmd/IMPACT-Lab-bibliography-generator.git
+        git clone https://github.com/acl13820-cmd/IMPACT-Lab-bibliography-generator/tree/main/ca_zot_bib_web.git
         cd ca_zot_bib_web
 
 
