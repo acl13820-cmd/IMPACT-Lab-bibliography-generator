@@ -1,5 +1,7 @@
 This is modified from [https://github.com/davidswelt/zot_bib_web.git](url) for compatibility with Python 3.13.
-This program generates an HTML link for Zotero libraries and collections selected. I used the zot-
+This program generates an HTML link for Zotero libraries and collections selected.
+
+**## Note: ALL codes should be entered via the system terminal.##**
 
 ## 1. Prerequisites
 - Python 3.13 
@@ -14,12 +16,12 @@ This program generates an HTML link for Zotero libraries and collections selecte
 1. Open terminal
 2. Paste the path to where you'd like the repository to be located(example below:)
                  
-       cd /Users/yourname/Documents
+   cd /Users/yourname/Documents
 
 3. Paste these line of code which downloads the repository onto your device and enters the main folder
 
-       git clone https://github.com/acl13820-cmd/IMPACT-Lab-bibliography-generator.git
-       cd ca_zot_bib_web
+   git clone https://github.com/acl13820-cmd/IMPACT-Lab-bibliography-generator.git
+   cd ca_zot_bib_web
 
 ## 3. Create a Python environment 
 
