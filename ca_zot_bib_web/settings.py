@@ -1,8 +1,8 @@
 
 group_collection(
-    id=6217053,
-    api_key='9LXY9WsSXBnb723fwgFEjoNM',
-    collection='A67VDG8R'
+    id=0000000,
+    api_key='your_key',
+    collection='your_collection'
 )
 
 # -------------------------------------------------
